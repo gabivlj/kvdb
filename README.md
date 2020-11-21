@@ -13,8 +13,8 @@ A simple key value pair way of storing data!
 
 ## Examples
 
-```rs
-#[derive(Debug)]
+```rust
+    #[derive(Debug)]
     struct TestValue {
         value: String,
     }
